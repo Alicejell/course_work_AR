@@ -1,4 +1,4 @@
 # course_work_AR
-some problems with colours in app, but no problem in Unity
-how it works:
+<p>some problems with colours in app, but no problem in Unity</p>
+<p>how it works:</p>
 ![](gif2.gif)
